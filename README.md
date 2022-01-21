@@ -7,3 +7,4 @@ Also look here for some more docs: https://github.com/fablabnbg/inkscape-silhoue
 
 # Graphtec GP-GL (GPGL) language command set manual PDF
 Here: https://drive.google.com/file/d/1B3RUKR-3AUZ70lLAzPTq8G_it09QH3mp/view?usp=sharing (~60mb)
+It doesn't include programmes examples from 2nd and 3rd paragraphs (they're on basic and too long to scan so i just skipped it)
