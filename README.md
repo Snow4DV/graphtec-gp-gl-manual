@@ -1,4 +1,4 @@
-# Graphtec GP-GL (GPGL) language command set manual PDF
+# Graphtec GP-GL (GPGL) documentation
 Download it from repo (shrinked to 20mb): https://github.com/Snow4DV/graphtec-gp-gl-manual/raw/main/Manual.pdf
 
 
